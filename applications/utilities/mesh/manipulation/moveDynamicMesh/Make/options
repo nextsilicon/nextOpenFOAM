@@ -10,4 +10,6 @@ EXE_LIBS = \
     -ldynamicFvMesh \
     -lmeshTools \
     -lsampling \
+    -lfileFormats \
+    -lfiniteVolume \
     -ldynamicMesh

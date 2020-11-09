@@ -28,6 +28,7 @@ EXE_LIBS = \
     -lsampling \
     -lmomentumTransportModels \
     -lfluidThermoMomentumTransportModels \
+    -lthermophysicalProperties \
     -lthermophysicalTransportModels \
     -lpsiReactionThermophysicalTransportModels \
     -lspecie \
@@ -40,6 +41,7 @@ EXE_LIBS = \
     -lradiationModels \
     -lsurfaceFilmModels \
     -lsurfaceFilmDerivedFvPatchFields \
+    -llagrangian \
     -llagrangianIntermediate \
     -llagrangianTurbulence \
     -lODE

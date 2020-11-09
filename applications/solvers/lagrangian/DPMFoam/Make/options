@@ -27,5 +27,6 @@ EXE_LIBS = \
     -lfiniteVolume \
     -ldynamicFvMesh \
     -ltopoChangerFvMesh \
+    -lsurfaceFilmModels \
     -lfvOptions \
     -lmeshTools

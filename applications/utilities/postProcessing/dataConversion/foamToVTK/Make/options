@@ -11,4 +11,6 @@ EXE_LIBS = \
     -ldynamicMesh \
     -llagrangian \
     -lgenericPatchFields \
+    -lfiniteVolume \
+    -lmeshTools \
     -lfileFormats

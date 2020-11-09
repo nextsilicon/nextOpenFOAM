@@ -11,6 +11,7 @@ EXE_INC = \
 
 EXE_LIBS = \
     -lincompressibleTwoPhaseMixture \
+    -lincompressibleTransportModels \
     -lmomentumTransportModels \
     -lincompressibleMomentumTransportModels \
     -lfiniteVolume \

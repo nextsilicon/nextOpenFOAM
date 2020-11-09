@@ -18,6 +18,8 @@ EXE_LIBS = \
     -leulerianInterfacialCompositionModels \
     -lmultiphaseMomentumTransportModels \
     -lmultiphaseThermophysicalTransportModels \
+    -lmomentumTransportModels \
+    -lfluidThermoMomentumTransportModels \
     -lthermophysicalTransportModels \
     -lfiniteVolume \
     -lfvOptions \

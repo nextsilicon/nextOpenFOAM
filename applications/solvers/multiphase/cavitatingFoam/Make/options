@@ -12,6 +12,7 @@ EXE_INC = \
 
 EXE_LIBS = \
     -lmomentumTransportModels \
+    -lincompressibleTransportModels \
     -lincompressibleTwoPhaseMixture \
     -lincompressibleMomentumTransportModels \
     -lbarotropicCompressibilityModel \

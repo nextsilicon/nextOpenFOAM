@@ -29,6 +29,8 @@ EXE_LIBS = \
     -ltwoPhaseSurfaceTension \
     -lfluidThermophysicalModels \
     -lspecie \
+    -lregionModels \
+    -lthermophysicalProperties \
     -ltwoPhaseMixture \
     -ltwoPhaseProperties \
     -linterfaceProperties \

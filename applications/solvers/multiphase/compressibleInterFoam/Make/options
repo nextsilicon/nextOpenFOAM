@@ -25,6 +25,7 @@ EXE_LIBS = \
     -lfluidThermoMomentumTransportModels \
     -lVoFphaseCompressibleMomentumTransportModels \
     -lfiniteVolume \
+    -lregionModels \
     -lfvOptions \
     -lmeshTools \
     -ldynamicMesh \

@@ -36,6 +36,7 @@ EXE_LIBS = \
     -lspecie \
     -lfluidThermophysicalModels \
     -lreactionThermophysicalModels \
+    -lthermophysicalProperties \
     -lSLGThermo \
     -lchemistryModel \
     -lregionModels \
