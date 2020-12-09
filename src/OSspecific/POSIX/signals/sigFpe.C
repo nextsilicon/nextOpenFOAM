@@ -51,7 +51,7 @@ void Foam::sigFpe::fillNan(UList<scalar>& lst)
 bool Foam::sigFpe::mallocNanActive_ = false;
 
 
-#ifdef LINUX
+#if defined(LINUX) && defined(__GLIBC__)
 extern "C"
 {
     extern void* __libc_malloc(size_t size);
